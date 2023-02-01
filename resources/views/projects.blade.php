@@ -6,3 +6,6 @@ hier beschrijf ik welke projecten ik heb gemaakt.
 	<li> ook projecten als verbouwen, gamecomputer bouwen enz.</li>
 	<li> le wagon vouching</li>
     </ul>
+
+
+mijn tijd bij le wagon heeft mijn leven veranderd. het heeft heel lang geduurd om een perspectief van dit leven/de wereld te schapen. en le wagon
